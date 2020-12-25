@@ -15,8 +15,8 @@ This is how I came to this idea of HackerByte Telegram Bot and use it as a notif
 ```
 
 <p>
-  <a href="https://t.me/HackerByteHere">
-  <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="35" alt="https://t.me/HackerByteHere">
+  <a href="http://gg.gg/csictf">
+  <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="35" alt="http://gg.gg/csictf">
   </a>
 </p>
 
